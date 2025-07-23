@@ -46,10 +46,7 @@ To identify patterns in student performance across different grades and location
 
 ---
 
-## 📎 Files in Repo
 
-
----
 
 ## 👤 Author
 **Kowsik S** | Tableau Developer | Data Analyst  
