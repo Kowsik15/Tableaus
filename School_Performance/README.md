@@ -39,13 +39,6 @@ To identify patterns in student performance across different grades and location
 
 ---
 
-## 📷 Dashboard Preview
-
-> *(Insert a screenshot or Tableau Public link here)*  
-> Example: [Click to View Live Dashboard](https://public.tableau.com/...)
-
----
-
 ## ✨ Learnings
 - Applied **Tableau calculations, parameters, filters**
 - Built interactive dashboards for **non-technical stakeholders**
