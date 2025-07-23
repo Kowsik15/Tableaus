@@ -1,9 +1,6 @@
 # Exploring Tableau, Power BI, and More: My BI Tools and Projects
 
 **Author**: Kowsik Shanmugham  
-**Published on**: Medium  
-**Original Article**: [Read on Medium](https://medium.com/@kowsikshanmugham15/exploring-tableau-power-bi-and-more-my-bi-tools-and-projects-a8edc45768ca)
-
 ---
 
 ## Introduction
@@ -15,8 +12,6 @@ In the ever-evolving landscape of data analytics, Business Intelligence (BI) too
 - **SQL**
 - **Excel**
 - **Python (for data wrangling)**
-
-This article serves as a comprehensive overview of my experience and projects that utilize these BI tools.
 
 ---
 
@@ -42,7 +37,7 @@ Tableau stands out with its drag-and-drop interface and ability to handle comple
 - Implementing filters, parameters, and calculated fields
 - Publishing dashboards to Tableau Public
 
-📌 **Project**: [View My Tableau Dashboard](https://public.tableau.com/app/profile/kowsik.shanmugham/viz/IMARTICUS-CAPSTONEPROJECT2/FINAL-CAPSTONE)
+📌 **Project**:
 
 ### Power BI
 
@@ -90,18 +85,11 @@ Python helped me clean and wrangle data before importing it into BI tools. I oft
 
 ## Capstone Projects
 
-### Capstone 1: Tableau Dashboard
+### Tableau Dashboard
 
 - Topic: Human Behavior Analysis
 - Tools: Tableau, Excel
 - Features: Filtered views, interactive charts, demographic-based analysis
-
-### Capstone 2: Personality Prediction Using ML
-
-- Tools: Python (Scikit-learn, TensorFlow), Flask, Tableau
-- BI Role: Visualizing model outputs and insights
-
----
 
 ## Conclusion
 
