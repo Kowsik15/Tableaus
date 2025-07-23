@@ -49,14 +49,6 @@ To design an interactive Tableau dashboard that allows users to:
 
 ---
 
-## 🖼️ Dashboard Preview
-
-> *(Insert a screenshot of your Tableau dashboard here)*
-
-**🔗 [Click here to view the interactive dashboard on Tableau Public](https://public.tableau.com/)**  
-_(Replace with your actual published link)_
-
----
 
 ## ✨ Skills & Concepts Demonstrated
 
